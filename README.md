@@ -1,12 +1,14 @@
 # Motorola-GM300-Arduino-Control-Display
 
-THE ORIGINAL HARDWORKS THIS MOTOROLA MAXTRAC MAXDROID IS Avinoam Albo, 4X1HF, as detailed here:
+THE ORIGINAL HARD-WORKS THIS MOTOROLA BUSINESS RADIO MAXTRAC MAXDROID CONVERSIONS IS AVINOAM ALBO, 4X1HF, 
 
-http://www.caarc.ca/articles/maxdroid#more-1714
+as detailed here: http://www.caarc.ca/articles/maxdroid#more-1714
+
+Short Youtube demo is here: https://www.youtube.com/watch?v=R2JITDX9hZI
 
 SINCE THIS ARDUINO SKETCH & DOCUMENTARIES IS IMPORTANT FOR MY MOTOROLA GM-300 CONVERSIONS, I am afraid this important informations is dissapear without any explanations, So i put here in Github.
 
-YOU MAY DOWNLOAD ALL THIS INFORMATION FREE OF CHARGES, but would be grateful to give credits to Avinoam Albo, 4X1HF for his hardworks.
+YOU MAY DOWNLOAD ALL THIS INFORMATION FREE OF CHARGES, but would be grateful to give credits to Avinoam Albo, 4X1HF for his hard-works.
 
 //************************************************************************************************************************************************************
 
